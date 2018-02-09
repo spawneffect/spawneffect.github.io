@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: spawneffect
 Installed-Size: 472932
 Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
-Filename: ./Aria/com.hackyouriphone.aria_1.1.13-1k_iphoneos-arm.deb
+Filename: Aria/com.hackyouriphone.aria_1.1.13-1k_iphoneos-arm.deb
 Size: 472932
 MD5sum: 6fb1145afff7c9133414c8fa58feb439
 SHA1: 3294b3b326ae84cc3900aeebeed30883f803f0ed
