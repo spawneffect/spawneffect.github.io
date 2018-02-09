@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Dekesto <sp4wneffect@outlook.com>
 Installed-Size: 612
 Depends: mobilesubstrate, preferenceloader, firmware (>= 7)
-Filename: ./debs/com.dekesto.minimalcameraios9_1.2.0-2_iphoneos-arm.deb
+Filename: debs/asdf.deb
 Size: 60674
 MD5sum: 496191158a82d7c235c7d8ec30446bc6
 SHA1: d0e74833c3c828b4d21d2768155a0423c0b4c6ff
