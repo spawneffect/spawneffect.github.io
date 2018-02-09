@@ -1,0 +1,8 @@
+Origin: SpawnEffect's Private Repo
+Label: SpawnEffect's Label
+Suite: stable
+Version: 0.1
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: SpawnEffect's private tweaks and more...

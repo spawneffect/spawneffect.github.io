@@ -1,0 +1,11 @@
+Package: Spotifier for MusicApp
+Name: Spotifier
+Version: 0.1
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
+Architecture: iphoneos-arm
+Author: Spawneffect <sp4wneffect@outlook.com>
+Depiction:
+Section: HYI - Tweaks
+Description: A tweak for the stock music app on ios 7 and 8, Queue songs, Dark Theme, New Album views and more.
+Homepage:
+Maintainer: SpawnEffect <sp4wneffect@outlook.com>
