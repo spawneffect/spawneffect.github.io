@@ -1,4 +1,4 @@
-# spawneffect.github.io
+# spawneffect.github.io/repo/
 spawneffect's private cydia repository v. 0.1
 
 # Release
