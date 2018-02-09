@@ -1,8 +1,8 @@
 Origin: SpawnEffect's Private Repo
-Label: SpawnEffect's Special Label
+Label: SpawnEffect's Repo
 Suite: stable
-Version: 0.1
+Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: SpawnEffect's private tweaks and more...
+Description: SpawnEffect's Private Cydia Repository

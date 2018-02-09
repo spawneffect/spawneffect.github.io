@@ -1,14 +1,15 @@
-Package: com.spawneffect.aria
+Package: com.hackyouriphone.aria
 Version: 1.1.13-1k
 Architecture: iphoneos-arm
-Maintainer: spawneffect <spawneffect@outlook.com>
+Maintainer: spawneffect
+Installed-Size: 472932
 Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
-Filename: /Aria.deb
+Filename: ./Aria.deb
 Size: 472932
 MD5sum: 6fb1145afff7c9133414c8fa58feb439
 SHA1: 3294b3b326ae84cc3900aeebeed30883f803f0ed
 SHA256: de1a247be8cc8feb4a07b4b61fb43c3300db7bb8b48bf1fa17306a92c9c189ec
 Section: Tweaks
 Description: Music tweak: queue, grid views, more...
-Author: pNre <hisemail@hotmail.com>
+Author: pNre
 Name: Aria
