@@ -1,10 +1,26 @@
+Package: com.dekesto.minimalcameraios9
+Version: 1.2.0-2
+Architecture: iphoneos-arm
+Maintainer: Dekesto
+Installed-Size: 612
+Depends: mobilesubstrate, preferenceloader, firmware (>= 9)
+Filename: ./debs/com.dekesto.minimalcameraios9_1.2.0-2_iphoneos-arm.deb
+Size: 60674
+MD5sum: 496191158a82d7c235c7d8ec30446bc6
+SHA1: d0e74833c3c828b4d21d2768155a0423c0b4c6ff
+SHA256: d42ec361b2757fbfc74478d96d3ebc7e87cf93d82dc0bc7a0a826a09e855141a
+Section: Tweaks
+Description: Camera tweak for the minimalist
+Author: Dekesto
+Name: MinimalCamera (iOS 9)
+
 Package: com.hackyouriphone.aria
 Version: 1.1.13-1k
 Architecture: iphoneos-arm
 Maintainer: spawneffect
 Installed-Size: 472932
 Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
-Filename: Aria/com.hackyouriphone.aria_1.1.13-1k_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.aria_1.1.13-1k_iphoneos-arm.deb
 Size: 472932
 MD5sum: 6fb1145afff7c9133414c8fa58feb439
 SHA1: 3294b3b326ae84cc3900aeebeed30883f803f0ed
