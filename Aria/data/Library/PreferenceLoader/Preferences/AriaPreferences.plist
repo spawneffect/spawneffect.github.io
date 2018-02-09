@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = AriaPreferences;
+		cell = PSLinkCell;
+		detail = "AriaPreferencesListController";
+		icon = "Aria.png";
+		isController = 1;
+		label = Aria;
+	};
+}

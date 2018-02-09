@@ -1,11 +1,11 @@
-Package: Spotifier for MusicApp
-Name: Spotifier
-Version: 0.1
+Package: com.hackyouriphone.aria
+Name: Aria
+Version: 1.1.13-1k
 Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
 Architecture: iphoneos-arm
-Author: Spawneffect <sp4wneffect@outlook.com>
-Depiction:
+Author: pNre <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=aria
 Section: HYI - Tweaks
-Description: A tweak for the stock music app on ios 7 and 8, Queue songs, Dark Theme, New Album views and more.
-Homepage:
-Maintainer: SpawnEffect <sp4wneffect@outlook.com>
+Description: Music tweak: queue, grid views, more...
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=aria
+Maintainer: iLeoLion <repo@hackyouriphone.org>

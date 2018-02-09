@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.pNre.aria/settingsupdated</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.pNre.aria</string>
+			<key>key</key>
+			<string>CellZoomAnimation</string>
+			<key>label</key>
+			<string>Zoom animation</string>
+		</dict>
+		<dict>
+			<key>default</key>
+			<integer>0</integer>
+			<key>key</key>
+			<string>CellsSize</string>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>label</key>
+			<string>Cells size</string>
+			<key>PostNotification</key>
+			<string>com.pNre.aria/settingsupdated</string>
+			<key>defaults</key>
+			<string>com.pNre.aria</string>
+			<key>detail</key>
+			<string>PSListItemsController</string>
+			<key>validTitles</key>
+			<array>
+				<string>Small (88 x 88)</string>
+				<string>Medium (128 x 128)</string>
+				<string>Big (188 x 188)</string>
+				<string>Autosizing</string>
+			</array>
+			<key>validValues</key>
+			<array>
+				<integer>88</integer>
+				<integer>128</integer>
+				<integer>188</integer>
+				<integer>0</integer>
+			</array>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Grid views</string>
+</dict>
+</plist>

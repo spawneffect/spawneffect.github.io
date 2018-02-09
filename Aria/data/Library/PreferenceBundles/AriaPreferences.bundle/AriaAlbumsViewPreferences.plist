@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>View</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.pNre.aria/settingsupdated</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.pNre.aria</string>
+			<key>key</key>
+			<string>ShowAlbumsGrid</string>
+			<key>label</key>
+			<string>Show as grid</string>
+		</dict>
+		<dict>
+			<key>default</key>
+			<integer>0</integer>
+			<key>key</key>
+			<string>AlbumsSortingMode</string>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>label</key>
+			<string>Sorting mode</string>
+			<key>PostNotification</key>
+			<string>com.pNre.aria/settingsupdated</string>
+			<key>defaults</key>
+			<string>com.pNre.aria</string>
+			<key>detail</key>
+			<string>PSListItemsController</string>
+			<key>validTitles</key>
+			<array>
+				<string>Title, ascending</string>
+				<string>Title, descending</string>
+				<string>Year, ascending</string>
+				<string>Year, descending</string>
+			</array>
+			<key>validValues</key>
+			<array>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>2</integer>
+				<integer>3</integer>
+			</array>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Grid</string>
+			<key>footerText</key>
+			<string>Please note: scrolling labels and rounded corners can deteriorate the grid scrolling performances.</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.pNre.aria/settingsupdated</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.pNre.aria</string>
+			<key>key</key>
+			<string>ShowAlbumTitleInGrid</string>
+			<key>label</key>
+			<string>Album title</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.pNre.aria/settingsupdated</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.pNre.aria</string>
+			<key>key</key>
+			<string>ShowArtistNameInGrid</string>
+			<key>label</key>
+			<string>Artist name</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.pNre.aria/settingsupdated</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.pNre.aria</string>
+			<key>key</key>
+			<string>UseAlbumTitleMarqueeLabel</string>
+			<key>label</key>
+			<string>Scrolling title label</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.pNre.aria/settingsupdated</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.pNre.aria</string>
+			<key>key</key>
+			<string>UseAlbumArtistMarqueeLabel</string>
+			<key>label</key>
+			<string>Scrolling artist label</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.pNre.aria/settingsupdated</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.pNre.aria</string>
+			<key>key</key>
+			<string>AlbumGridCellsBorder</string>
+			<key>label</key>
+			<string>Cell border</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.pNre.aria/settingsupdated</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.pNre.aria</string>
+			<key>key</key>
+			<string>AlbumGridCellsRoundedCorners</string>
+			<key>label</key>
+			<string>Rounded corners</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.pNre.aria/settingsupdated</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.pNre.aria</string>
+			<key>key</key>
+			<string>AlbumsGridGrouping</string>
+			<key>label</key>
+			<string>Group by title</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Albums</string>
+</dict>
+</plist>

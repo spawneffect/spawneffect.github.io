@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>label</key>
+			<string>Behaviour</string>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.pNre.aria/settingsupdated</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.pNre.aria</string>
+			<key>key</key>
+			<string>QueueKeepNowPlayingAlbum</string>
+			<key>label</key>
+			<string>Resume now playing songs</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.pNre.aria/settingsupdated</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.pNre.aria</string>
+			<key>key</key>
+			<string>ShufflePlayAfterLastTrack</string>
+			<key>label</key>
+			<string>Shuffle if nothing to resume</string>
+		</dict>
+		<dict>
+			<key>label</key>
+			<string>Controls (Table)</string>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.pNre.aria/settingsupdated</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.pNre.aria</string>
+			<key>key</key>
+			<string>QueueRecognitionState</string>
+			<key>label</key>
+			<string>Show controls on touch up</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.pNre.aria/settingsupdated</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.pNre.aria</string>
+			<key>key</key>
+			<string>QueueButtonFilled</string>
+			<key>label</key>
+			<string>Colored buttons</string>
+		</dict>
+		<dict>
+			<key>label</key>
+			<string>Controls (Grid)</string>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.pNre.aria/settingsupdated</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.pNre.aria</string>
+			<key>key</key>
+			<string>QueueButtonRoundedCorners</string>
+			<key>label</key>
+			<string>Rounded corners</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.pNre.aria/settingsupdated</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.pNre.aria</string>
+			<key>key</key>
+			<string>QueueCellUnique</string>
+			<key>label</key>
+			<string>Flip one cell at a time</string>
+		</dict>
+		<dict>
+			<key>label</key>
+			<string>Controls (Song)</string>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.pNre.aria/settingsupdated</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.pNre.aria</string>
+			<key>key</key>
+			<string>QueueSingleTap</string>
+			<key>label</key>
+			<string>Single tap activation</string>
+		</dict>
+		<dict>
+			<key>label</key>
+			<string>Single Tap Activation</string>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.pNre.aria/settingsupdated</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.pNre.aria</string>
+			<key>key</key>
+			<string>SingleTapDefaultPlayNow</string>
+			<key>label</key>
+			<string>Default action on Play Now</string>
+		</dict>
+		<dict>
+			<key>label</key>
+			<string>Misc</string>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.pNre.aria/settingsupdated</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.pNre.aria</string>
+			<key>key</key>
+			<string>QueueAskToClear</string>
+			<key>label</key>
+			<string>Ask to clear</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.pNre.aria/settingsupdated</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.pNre.aria</string>
+			<key>key</key>
+			<string>QueueEmptyOnStart</string>
+			<key>label</key>
+			<string>Empty queue on start</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Queue</string>
+</dict>
+</plist>

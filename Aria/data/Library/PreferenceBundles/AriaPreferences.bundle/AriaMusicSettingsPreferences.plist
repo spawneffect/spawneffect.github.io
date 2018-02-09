@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>label</key>
+			<string>Appearance</string>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>AriaColorSelectorTint</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>Tint color</string>
+		</dict>
+		<dict>
+			<key>label</key>
+			<string>Misc</string>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.pNre.aria/settingsupdated</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.pNre.aria</string>
+			<key>key</key>
+			<string>HideStoreButton</string>
+			<key>label</key>
+			<string>Hide &quot;Store&quot; button</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.pNre.aria/settingsupdated</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.pNre.aria</string>
+			<key>key</key>
+			<string>PreventRotation</string>
+			<key>label</key>
+			<string>Prevent rotation</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Music</string>
+</dict>
+</plist>
