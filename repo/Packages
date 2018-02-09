@@ -13,19 +13,3 @@ Section: Tweaks
 Description: Camera tweak for the minimalist
 Author: Dekesto
 Name: MinimalCamera (iOS 9)
-
-Package: com.hackyouriphone.aria
-Version: 1.1.13-1k
-Architecture: iphoneos-arm
-Maintainer: spawneffect
-Installed-Size: 472932
-Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
-Filename: ./debs/com.hackyouriphone.aria_1.1.13-1k_iphoneos-arm.deb
-Size: 472932
-MD5sum: 6fb1145afff7c9133414c8fa58feb439
-SHA1: 3294b3b326ae84cc3900aeebeed30883f803f0ed
-SHA256: de1a247be8cc8feb4a07b4b61fb43c3300db7bb8b48bf1fa17306a92c9c189ec
-Section: Tweaks
-Description: Music tweak: queue, grid views, more...
-Author: pNre
-Name: Aria
