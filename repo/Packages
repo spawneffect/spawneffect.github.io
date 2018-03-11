@@ -6,10 +6,10 @@ Installed-Size: 3208450
 Depends: firmware (>= 8)
 Filename: ./debs/com.spawneffect.spotifier_0.1_iphoneos-arm.deb
 Size: 1479286
-MD5sum: 8f149a61f4e4f7163eaa76a1baf4dd56
-SHA1: 1aa89c167cbc2233a8c1124308ea0e7b16e2b024
-SHA256: 4390c2918e7197fa45a3883a0be70c6227077893bb25d78ca38c10e6e406cb0f
+MD5sum: fcf13b9b0423e2f8ed9df597d4d657d8
+SHA1: e021b4fba5e97add822112b5048bc1ea6b9d51d0
+SHA256: 1581ed027d000dc4f410930102d784895e89ee050600d44229c83bf91d4be526
 Section: Tweaks
 Description: Spotifier for the music app.<br>adds new functionallity to the ios 8 music application.<br/><br/>such as: Queing your music, placing everything in a grid, a dark theme and more.
 Author: spawneffect
-Name: Spotifier for the Music app
+Name: Spotifier
