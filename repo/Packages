@@ -10,6 +10,6 @@ MD5sum: 6fb1145afff7c9133414c8fa58feb439
 SHA1: 3294b3b326ae84cc3900aeebeed30883f803f0ed
 SHA256: de1a247be8cc8feb4a07b4b61fb43c3300db7bb8b48bf1fa17306a92c9c189ec
 Section: Tweaks
-Description: spotifier for the music app <br/>adds new functionallity to the ios 8 music application.<br/><br/>such as: que your music
+Description: spotifier for the music app.<br/><br/>adds new functionallity to the ios 8 music application.<br/><br/>such as: que your music
 Author: spawneffect
 Name: Spotifier
