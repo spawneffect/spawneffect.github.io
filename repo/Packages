@@ -3,7 +3,7 @@ Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: spawneffect
 Installed-Size: 3208450
-Depends: firmware (>= 8)
+Depends: mobilesubstrate, firmware (>= 8)
 Filename: ./debs/com.spawneffect.spotifier_0.1_iphoneos-arm.deb
 Size: 1479286
 MD5sum: 314b47ca8fb6b5e300049d144e0167d7
@@ -13,3 +13,19 @@ Section: Tweaks
 Description: Spotifier for the music app.<br>adds new functionallity to the ios 8 music application.<br/><br/>such as: Queing your music, placing everything in a grid, a dark theme and more.
 Author: spawneffect
 Name: Spotifier
+
+Package: com.pNre.aria
+Version: 1.1.13-k
+Architecture: iphoneos-arm
+Maintainer: pNre
+Installed-Size: 472932
+Depends: firmware (>= 9)
+Filename: ./debs/com.hackyouriphone.aria_1.1.13-1k_iphoneos-arm.deb
+Size: 472932
+MD5sum: 6fb1145afff7c9133414c8fa58feb439
+SHA1: 3294b3b326ae84cc3900aeebeed30883f803f0ed
+SHA256: de1a247be8cc8feb4a07b4b61fb43c3300db7bb8b48bf1fa17306a92c9c189ec
+Section: Tweaks
+Description: music
+Author: pNre
+Name: Aria
