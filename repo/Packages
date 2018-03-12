@@ -20,7 +20,7 @@ Architecture: iphoneos-arm
 Maintainer: pNre
 Installed-Size: 472932
 Depends: mobilesubstrate, firmware (>= 8)
-Filename: ./debs/com.hackyouriphone.aria_1.1.13-1k_iphoneos-arm.deb
+Filename: ./debs/com.hackyouriphone.aria_1.1.14-1k_iphoneos-arm.deb
 Size: 472932
 MD5sum: 6fb1145afff7c9133414c8fa58feb439
 SHA1: 3294b3b326ae84cc3900aeebeed30883f803f0ed
